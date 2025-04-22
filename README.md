@@ -1,3 +1,3 @@
 # clase
 primera vez usando readmi
-2
+codigo 1
